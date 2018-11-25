@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\катя\source\repos\bioinf10\bioinf10\main.cpp(157): warning C4018: <: несоответствие типов со знаком и без знака
+  Bioinf10.vcxproj -> C:\Users\Катя\source\repos\Bioinf10\Debug\Bioinf10.exe
